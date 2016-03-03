@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./richerhistoirede02richuoft_0009.png"; bbox 0 0 1890 3380; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 263 40 628 230">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 263 40 628 230">
+     <span class='ocr_line' id='line_1_1' title="bbox 266 40 380 121; baseline -0.018 0"><span class='ocrx_word' id='word_1_1' title='bbox 266 40 380 121; x_wconf 68' lang='lat' dir='ltr'><strong>a?</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 263 131 628 230; baseline -0.022 -24"><span class='ocrx_word' id='word_1_2' title='bbox 263 131 628 230; x_wconf 60' lang='lat' dir='ltr'><strong>asszqm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 212 960 1465 1230">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 212 960 1465 1230">
+     <span class='ocr_line' id='line_1_3' title="bbox 212 960 1465 1050; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 212 965 647 1050; x_wconf 83' lang='lat' dir='ltr'>RIGHERI</span> <span class='ocrx_word' id='word_1_4' title='bbox 715 960 1465 1050; x_wconf 82' lang='lat' dir='ltr'>HISTORIARUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 514 1159 1147 1230; baseline -0.002 -11"><span class='ocrx_word' id='word_1_5' title='bbox 514 1161 718 1221; x_wconf 86' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_6' title='bbox 764 1159 1147 1230; x_wconf 80' lang='lat' dir='ltr'><strong>QUATUOR.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 724 1351 965 1360">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 724 1351 965 1360">
+     <span class='ocr_line' id='line_1_5' title="bbox 724 1351 965 1360; baseline 0 2020"><span class='ocrx_word' id='word_1_7' title='bbox 724 1351 965 1360; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 312 1494 1370 1577">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 312 1494 1370 1577">
+     <span class='ocr_line' id='line_1_6' title="bbox 312 1494 1370 1577; baseline 0.004 -4"><span class='ocrx_word' id='word_1_8' title='bbox 312 1494 769 1574; x_wconf 87' lang='lat' dir='ltr'>HISTOIRE</span> <span class='ocrx_word' id='word_1_9' title='bbox 826 1497 949 1575; x_wconf 88' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1001 1496 1370 1577; x_wconf 85' lang='lat' dir='ltr'>RIGHER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 465 1680 1251 1739">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 465 1680 1251 1739">
+     <span class='ocr_line' id='line_1_7' title="bbox 465 1680 1251 1739; baseline 0.005 -9"><span class='ocrx_word' id='word_1_11' title='bbox 465 1680 550 1731; x_wconf 87' lang='lat' dir='ltr'><strong>EN</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 597 1681 900 1739; x_wconf 79' lang='lat' dir='ltr'>QUATRE</span> <span class='ocrx_word' id='word_1_13' title='bbox 958 1683 1184 1736; x_wconf 86' lang='lat' dir='ltr'><strong>LIVRE</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1202 1685 1251 1734; x_wconf 92' lang='lat' dir='ltr'><strong>S.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
